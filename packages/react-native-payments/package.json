@@ -1,6 +1,6 @@
 {
   "name": "react-native-payments",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "scripts": {
     "run:packager": "cd examples/native && yarn run:packager",
     "run:ios": "cd examples/native && yarn run:ios",
@@ -18,6 +18,9 @@
     "payments"
   ],
   "author": "Naoufal Kadhom",
+  "contributors": [{
+    "name" : "Branding Brand"
+  }],
   "license": "MIT",
   "dependencies": {
     "es6-error": "^4.0.2",
